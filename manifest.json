@@ -1,0 +1,15 @@
+{
+  "name": "tourette",
+  "id": "1397933383103158866",
+  "api": "1.0.0",
+  "editorType": ["figma"],
+  "permissions": [],
+  "main": "dist/code.js",
+  "ui": "dist/index.html",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  }
+}
